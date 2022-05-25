@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dawidziuk4
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python, HTML, CSS and Javascript
+- 🌱 I’m currently progressing in C# and Java.
 
 <!---
 dawidziuk4/dawidziuk4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
